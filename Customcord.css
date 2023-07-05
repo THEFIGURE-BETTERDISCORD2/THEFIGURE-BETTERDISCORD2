@@ -1,0 +1,12 @@
+/**
+ * @name Customcord
+ * @author Figure
+ * @description Make your own discord with this!
+ * @version 1.0.0 alpha
+ */
+@import url("https://raw.githack.com/rauenzi/BetterDiscordAddons/master/Themes/BetterDiscordAddons.theme.css");
+
+:root {
+  --background-secondary: #000000; /* Replace with your desired background color */
+  --background-primary: #000000; /* Replace with your desired background color */
+}
