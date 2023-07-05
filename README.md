@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Figure.
+- 👀 I’m interested in BetterDiscord
+- 🌱 I’m currently learning CSS Coding
